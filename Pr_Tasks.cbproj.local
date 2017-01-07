@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.005,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\MainUnit.dfm=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Pr_TasksPCH1.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.107,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Pr_Tasks.cbproj=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Project1PCH1.h=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\MainUnit.cpp=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\MainUnit.h=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2016.10.05 18:31:48.224,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\File1.h</Transaction>
+    <Transaction>2016.10.05 18:32:41.213,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\File1.cpp</Transaction>
+    <Transaction>2016.10.05 18:35:35.217,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\SimpleCatalog.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\File1.h</Transaction>
+    <Transaction>2016.10.05 18:38:38.591,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\SimpleCatalog.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
