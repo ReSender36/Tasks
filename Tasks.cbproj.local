@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.938,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskToProj_Unit.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.715,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.977,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskAlloc_Group_Unit.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskWrk_Unit.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Project_Unit.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\ProjectDet_Unit.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskAlloc_Date_Unit.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskRepeat_Unit.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskRepeat_Unit.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.690,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TasksPCH1.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Pr_TasksPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Project_Unit.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskDet_Unit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskAlloc_ByProj_Unit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\ProjectSel_Unit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\SelectDate_Unit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Project1PCH1.h=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskRepeat_Unit.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.107,=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\MainUnit.dfm=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskDet_Unit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\SelectDate_Unit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Project_Unit.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.107,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Pr_Tasks.cbproj=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\MainUnit.h=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskToProj_Unit.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\ProjectDet_Unit.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskToProj_Unit.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskWrk_Unit.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Tasks.cbproj=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Pr_Tasks.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskAlloc_ByProj_Unit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskWrk_Unit.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\MainUnit.cpp=C:\Users\mdi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskDet_Unit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.977,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskAlloc_Group_Unit.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\ProjectSel_Unit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\SelectDate_Unit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskAlloc_Date_Unit.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskAlloc_ByProj_Unit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\ProjectSel_Unit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Pr_TasksPCH1.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\ProjectDet_Unit.dfm=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.977,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskAlloc_Group_Unit.cpp=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\TaskAlloc_Date_Unit.h=D:\docs\Programming\RAD Studio XE7\C++\Development\tasks\Unit2.h</Transaction>
+  </Transactions>
+</BorlandProject>
